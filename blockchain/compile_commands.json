@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/cmpt201/units/04-assignments/a12-daryouya/build",
+  "command": "/usr/bin/cc  -I/home/cmpt201/units/04-assignments/a12-daryouya/./include -I/home/cmpt201/units/04-assignments/a12-daryouya/./lib -g -fsanitize=address -o CMakeFiles/blockchain.dir/src/blockchain.c.o -c /home/cmpt201/units/04-assignments/a12-daryouya/src/blockchain.c",
+  "file": "/home/cmpt201/units/04-assignments/a12-daryouya/src/blockchain.c"
+},
+{
+  "directory": "/home/cmpt201/units/04-assignments/a12-daryouya/build",
+  "command": "/usr/bin/cc  -I/home/cmpt201/units/04-assignments/a12-daryouya/./include -I/home/cmpt201/units/04-assignments/a12-daryouya/./lib -g -fsanitize=address -o CMakeFiles/blockchain.dir/src/main.c.o -c /home/cmpt201/units/04-assignments/a12-daryouya/src/main.c",
+  "file": "/home/cmpt201/units/04-assignments/a12-daryouya/src/main.c"
+}
+]
